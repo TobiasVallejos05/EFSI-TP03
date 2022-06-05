@@ -1,0 +1,48 @@
+#navbarul {
+    display:inline;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+#carousel-indicators {
+    bottom: -50px;
+}
+
+.title {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.card {
+    height: 400px;
+    width: 400px;
+}
+
+.card:hover{
+    background-color: lightgray;
+}
+
+.cardImage {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 380px;
+    width: 380px;
+}
+
+.card-title {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.card-text {
+    font-size: 20px;
+}
+
+.brandImage {
+    height: 100px;
+}
